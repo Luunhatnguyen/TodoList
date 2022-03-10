@@ -1,1 +1,2 @@
-# TodoList
+# TodoListRJ
+Gồm có các chức năng cơ bản thêm, sửa, xoá....
